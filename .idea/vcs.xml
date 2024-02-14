@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/amazonlocker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/billsharing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cache-low-level-system-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carrental" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chess-low-level-system-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cric-score" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/distributed-idgen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interviewcodingpractise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld-cab-booking-ola-uber-grab-lyft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld-food-delivery-zomato-swiggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld-parking-lot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/locker-management-system-low-level-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/low-level-design-even-odd-java-threading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/low-level-design-messaging-queue-pub-sub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multi-level-cache-low-level-system-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reviews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snake-and-ladder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ticket-booking-low-level-system-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/truecaller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/youtube-projects" vcs="Git" />
+  </component>
+</project>
